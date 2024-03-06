@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-
+//Mesajul adaugat de mine
 int function(int x)
 {
     if (x>0)
